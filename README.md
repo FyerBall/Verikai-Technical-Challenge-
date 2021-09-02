@@ -1,12 +1,12 @@
 
 # NOTE:
 
-## Bug: Fix after submission 
+## Bug: Fixed after submission 
 I noticed a bug and I had to delete  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__() from the code. That was the only thing I changed after I submitted the test. 
 
 DEMO 👉🏻 [Here](https://verikai.netlify.app/)
 
-[GIF](https://s9.gifyu.com/images/Meshari---Verikai-Technical-Challenage257f2ca90398d427.gif)
+![GIF](https://s9.gifyu.com/images/Meshari---Verikai-Technical-Challenage257f2ca90398d427.gif)
 
 
 
